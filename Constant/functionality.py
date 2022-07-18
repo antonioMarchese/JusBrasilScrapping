@@ -33,7 +33,7 @@ class JusBrasil(webdriver.Chrome):
         for name in search_names:
             if (i % 7 == 0):
                 time.sleep(10.0)
-            new_link = const.GOOGLE_SEARCH + name + '+' + search_city_name
+            new_link = const.GOOGLE_SEARCH + name + '+' + search_city_name.replace("-", '+').strip('/')
             self.get(new_link)
             i += 1
             try:

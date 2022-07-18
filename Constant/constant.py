@@ -1,4 +1,4 @@
 BASE_URL = 'https://www.jusbrasil.com.br/advogados/previdencia-social-'
-CITY_LINKS = ['rj-paracambi/', 'rj-angra-dos-reis/', 'mg-juiz-de-fora/', 'mg-tres-coracoes/', 'mg-sete-lagoas/', 'mg-pouso-alegre/', 'mg-vespasiano/', 'mg-diamantina/', 'mg-conselheiro-lafaiete/', 'mg-araguari/', 'mg-nova-serrana/', 'sp-pindamonhangaba/', 'sp-guaratingueta/', 'sp-lorena/', 'ba-porto-seguro/', 'ba-teixeira-de-freitas/']
-SEARCH_CITY_NAMES = ['advogado+paracambi','advogado+angra+dos+reis', 'advogado+juiz+de+fora', 'advogado+tres+coracoes', 'advogado+sete+lagoas', 'advogado+pouso+alegre', 'advogado+vespasiano', 'advogado+diamantina', 'advogado+conselheiro+lafaiete', 'advogado+araguari', 'advogado+nova+serrana', 'advogado+pindamonhangaba', 'advogado+guaratingueta', 'advogado+lorena+sp', 'advogado+porto+seguro', 'advogado+teixeira+de+freitas']
+CITY_LINKS = ['rj-paracambi/', 'rj-angra-dos-reis/']
+SEARCH_CITY_NAMES = ['advogado+paracambi','advogado+angra+dos+reis']
 GOOGLE_SEARCH = 'https://www.google.com/search?q='
